@@ -62,7 +62,6 @@ Check out my work live: **[neerajrekwar.github.io](https://neerajrekwar.github.i
 
 ## 🐍 Fun Visuals
 ![Snake animation](https://github.com/neerajrekwar/neerajrekwar/blob/output/github-contribution-grid-snake.svg)
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 
 ---
 
