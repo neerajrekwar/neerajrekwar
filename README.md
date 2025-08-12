@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Neeraj Rekwar
 
-<!--
-**neerajrekwar/neerajrekwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+## About Me
+- 👨‍💻 I'm passionate about software development
+- 🌱 I'm continuously learning and growing
+- 💬 Feel free to reach out to me for collaborations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- Programming Languages
+- Frameworks
+- Tools & Platforms
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=neerajrekwar&show_icons=true&theme=radical)
+
+## 📫 How to reach me:
+- GitHub: [@neerajrekwar](https://github.com/neerajrekwar)
+
+---
+⭐️ From [neerajrekwar](https://github.com/neerajrekwar)
