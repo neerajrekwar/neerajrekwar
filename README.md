@@ -33,6 +33,10 @@ Check out my work live: **[neerajrekwar.github.io](https://neerajrekwar.github.i
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![Upstash Redis](https://img.shields.io/badge/Upstash_Redis-FF4438?logo=redis&logoColor=white)
 
+**Frameworks:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats & Activity
