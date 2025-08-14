@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Neeraj Rekwar
 
-🚀 **Full-Stack Developer | Next.js & TypeScript Enthusiast | Digital Marketer**  
+🚀 **Full-Stack Developer | Next.js & TypeScript Enthusiast**  
 💡 Passionate about crafting high-performance web applications, clean UI/UX, and scalable backend systems.
 
 ---
